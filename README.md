@@ -7,7 +7,4 @@ About
   - make more non-web projects. Recently released a stable version of a linux daemon called [*slsd*](https://github.com/coolport/slsd).
   - learn and work more with lower level concepts 
   - involve myself in open-source. Last contribution: ***remix-run/react-router*** — [docs(useNavigate): fix broken markdown link to History API (#14283)](https://github.com/remix-run/react-router/pull/14283)
-
----
-
-job plz
+- Currently looking for internships 😓
