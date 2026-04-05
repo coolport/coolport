@@ -1,7 +1,7 @@
 About
 ---
 
-- CS senior mostly working with full-stack web dev. Also into ML and Data Science.
+- CS senior mostly working with full-stack web dev and ML
   -  TypeScript, Java, Python, BASH, learning Go
   -  React, Spring Boot, Node/Express, Flask, Postgres, SQLite, MongoDB
   -  Aspiring DevOps engineer
